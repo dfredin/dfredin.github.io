@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "dfredin.png"
   name             : "Daniel Fredin"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "Physicist | ML Researcher | PhD Student. Specializing in gravitational waves, astrophysics, and AI-driven discovery."
+  pronouns         : "" # example: "she/her"  
+  bio              : "Physicist | ML Researcher | PhD Student  Specializing in gravitational waves, astrophysics, and AI-driven discovery."
   location         : "Seattle, WA"
   employer         : "OpenAI"
   uri              : "https://danielfredin.com"
