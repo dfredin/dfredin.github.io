@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-### **Education**  
+### **Education**  ###
 - **PhD in Physics** (Starting Soon)  
   *University of Massachusetts Lowell*  
-  Specializing in **machine learning applications in astrophysics and gravitational wave detection**.  
+  Specializing in machine learning applications in astrophysics and gravitational wave detection.  
 
 - **Master of Science in Physics** (2023 – Present)  
   *University of Washington*  
@@ -24,12 +24,12 @@ redirect_from:
 
 ---
 
-### **Research Experience**  
+### **Research Experience**  ###
 - **Graduate Research – Gravitational Wave Machine Learning (GWGASF Collaboration)**  
   *University of Washington* (2023 – Present)  
-  - Developing machine learning models for **gravitational wave detection and signal classification**.  
-  - Working with **S3 storage, Kubernetes, and HPC environments** for large-scale astrophysical data processing.  
-  - Implementing deep learning architectures to **analyze noisy time-series data from astrophysical sources**.  
+  - Developing machine learning models for gravitational wave detection and signal classification.  
+  - Working with S3 storage, Kubernetes, and HPC environments for large-scale astrophysical data processing.  
+  - Implementing deep learning architectures to analyze noisy time-series data from astrophysical sources.  
 
 - **Researcher – He6-CRES Experiment**  
   *University of Washington*  
@@ -39,23 +39,23 @@ redirect_from:
 - **Research Assistant – National High Magnetic Field Laboratory (NHMFL)**  
   *Tallahassee, FL*  
   - Applied advanced microscopy techniques for material characterization.  
-  - Conducted **high-field measurements and spectroscopic analysis**.  
+  - Conducted high-field measurements and spectroscopic analysis.  
 
 ---
 
-### **Industry Experience**  
+### **Industry Experience**  ###
 - **Materials & Process Physics Engineer I**  
-  *Boeing* (April 2024 – Present)  
-  - Specializing in **nondestructive evaluation (NDE)** and **computational imaging**.  
-  - Applying **ultrasonic testing (UT), radiographic imaging, and machine learning** for defect detection in aerospace materials.  
+  *Boeing* (April 2024 – January 2025)  
+  - Specializing in nondestructive evaluation (NDE) and computational imaging.  
+  - Applying ultrasonic testing (UT), radiographic imaging, and machine learning for defect detection in aerospace materials.  
 
 - **Technical Analyst – Materials & Process Physics**  
   *Boeing* (September 2023 – April 2024)  
-  - Assisted in developing **data-driven quality control** methods for composite and metallic materials.  
+  - Assisted in developing data-driven quality control methods for composite and metallic materials.  
 
 ---
 
-### **Technical Skills**  
+### **Technical Skills**  ###
 - **Programming:** Python, MATLAB, C++, Git, Docker, Kubernetes  
 - **Machine Learning:** Deep learning, neural networks, signal processing  
 - **Computational Tools:** TensorFlow, PyTorch, HDF5, HPC simulations  
@@ -63,7 +63,7 @@ redirect_from:
 
 ---
 
-### **Professional Memberships**  
+### **Professional Memberships**  ###
 - **American Physical Society (APS)** – Member  
 - **American Astronomical Society (AAS)** – Member  
 
