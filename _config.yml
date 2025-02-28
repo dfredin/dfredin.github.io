@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Daniel Fredin"
+site_theme               : "dark"
+title                    : "Daniel Fredin | Astrophysics & Machine Learning"
 title_separator          : "-"
 name                     : &name "Daniel Fredin"
-description              : &description "personal description"
+description              : &description "Physicist and machine learning researcher specializing in gravitational wave detection and extreme astrophysical phenomena. PhD student at UMass Lowell."
 url                      : https://www.danielfredin.com # the base hostname & protocol for your site e.g. "https://dfredin.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dfredin/dfredin.github.io"
@@ -22,22 +22,22 @@ repository               : "dfredin/dfredin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dfredin.png"
   name             : "Daniel Fredin"
-  pronouns         : # example: "she/her"  
-  bio              : "Physics grad student exploring the universe with machine learning and gravitational waves."
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Physicist | ML Researcher | PhD Student. Specializing in gravitational waves, astrophysics, and AI-driven discovery."
   location         : "Seattle, WA"
   employer         : "OpenAI"
-  uri              : # URL
+  uri              : "https://danielfredin.com"
   email            : "dfredin@uw.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-9166-4344"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
