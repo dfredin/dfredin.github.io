@@ -13,7 +13,7 @@ title                    : "Daniel Fredin"
 title_separator          : "-"
 name                     : &name "Daniel Fredin"
 description              : &description "personal description"
-url                      : https://dfredin.github.io # the base hostname & protocol for your site e.g. "https://dfredin.github.io"
+url                      : https://www.danielfredin.com # the base hostname & protocol for your site e.g. "https://dfredin.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dfredin/dfredin.github.io"
 
