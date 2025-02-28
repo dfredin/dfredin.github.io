@@ -7,42 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-### **About Me**  
+## About Me  
 
-Hello! I'm **Daniel Fredin**, a physics graduate student at the **University of Washington** and an incoming **PhD student at the University of Massachusetts Lowell**. My research focuses on the intersection of **machine learning and astrophysics**, particularly in **gravitational wave detection** and the study of **extreme cosmic phenomena**. I am passionate about using **data-driven approaches** to understand the universe's most energetic and mysterious events.  
+I am a **physicist, machine learning researcher, and PhD student at the University of Massachusetts Lowell**, specializing in **gravitational wave detection, astrophysics, and artificial intelligence applications in scientific computing**. My research focuses on developing advanced machine learning techniques for analyzing astrophysical signals, with a particular emphasis on deep learning methodologies for gravitational wave detection.  
 
----
+Prior to my doctoral studies, I worked with the **He6-CRES experiment at the University of Washington**, where I contributed to high-precision measurements in fundamental physics. I also conducted research at the **National High Magnetic Field Laboratory (NHMFL)**, applying advanced microscopy and data-driven analysis to material characterization. In industry, I have worked in **nondestructive evaluation and computational imaging**, applying **ultrasonic testing, radiographic imaging, and machine learning** to aerospace materials and structural analysis.  
 
-### **Research Experience**  
+My broader interests lie at the intersection of **computational physics, large-scale data analysis, and high-performance computing**, with a focus on leveraging AI-driven approaches to explore complex physical systems. This website serves as a platform to highlight my research, projects, and professional contributions.  
 
-- **Gramian Angular Summation Field (GWGASF) Collaboration**  
-  Developed computational tools for gravitational wave analysis, leveraging machine learning techniques to enhance detection sensitivity and accuracy.  
-
-- **He6-CRES Experiment, University of Washington**  
-  Contributed to precision measurements of the neutrino mass, helping address fundamental questions in particle physics through advanced data analysis methods.  
+For inquiries regarding research collaborations or professional opportunities, please feel free to reach out.  
 
 ---
-
-### **Professional Experience**  
-
-- **Boeing – Materials Process and Physics Engineer**  
-  Specialized in nondestructive testing techniques, including **ultrasonic testing** and **Barkhausen inspections** for composite and metallic materials.  
-  - Gained expertise in **Python**, **MATLAB**, **Docker**, and **Kubernetes**, applying these tools to large-scale data processing and analysis.  
-  - Focused on **quality control protocols**, **radiological safety**, and **LEAN principles** in aerospace applications.  
-
----
-
-### **Previous Research**  
-
-- **National High Magnetic Field Laboratory (NHMFL), Tallahassee**  
-  Worked as a **microscopist** and **research assistant**, supporting projects involving advanced microscopy techniques to study material properties under extreme conditions. This experience deepened my interest in **experimental and computational physics** and provided a solid foundation for my current research.  
-
----
-
-### **Looking Ahead**  
-
-These diverse experiences have shaped my commitment to advancing our understanding of the universe through **computational innovation**. As I prepare for my PhD journey, I am eager to:  
-- Explore how **machine learning** can reveal new insights into the cosmos.  
-- Collaborate with researchers who share my passion for **pushing the boundaries of astrophysics**.  
-- Contribute to the growing field of **machine learning applications in extreme astrophysical phenomena**.  
-
