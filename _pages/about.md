@@ -46,7 +46,3 @@ These diverse experiences have shaped my commitment to advancing our understandi
 - Collaborate with researchers who share my passion for **pushing the boundaries of astrophysics**.  
 - Contribute to the growing field of **machine learning applications in extreme astrophysical phenomena**.  
 
----
-
-✨ _Let's connect and explore the universe together through the lens of physics and computation._ 🌌
-
