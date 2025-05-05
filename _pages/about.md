@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me  
 
-I am a physicist, engineer, machine learning researcher, and PhD student at the University of Massachusetts Lowell, specializing in gravitational wave detection, astrophysics, and artificial intelligence applications in scientific computing. My research focuses on developing advanced machine learning techniques for analyzing astrophysical signals, with a particular emphasis on deep learning methodologies for gravitational wave detection.  
+I am a physics graduate student at the University of Washington, with a focus on machine learning applications in gravitational wave detection and astrophysical signal processing. My current graduate research is conducted in collaboration with the Gravitational Wave Gramian Angular Summation Field (GWGASF) project, where I develop deep learning models for analyzing noisy time-series data from astrophysical sources.  
 
-Prior to my doctoral studies, I worked with the He6-CRES experiment at the University of Washington, where I contributed to high-precision measurements in fundamental physics. I also conducted research at the National High Magnetic Field Laboratory (NHMFL), applying advanced microscopy and data-driven analysis to material characterization. In industry, I have worked in nondestructive evaluation and computational imaging, applying ultrasonic testing, radiographic imaging, and machine learning to aerospace materials and structural analysis.  
+In addition to my academic work, I bring hands-on engineering experience from roles in both the aerospace and space technology sectors. I previously worked at Boeing as a Materials & Process Physics Engineer, specializing in nondestructive evaluation (NDE) methods including ultrasonic testing and radiographic inspection for composite aerospace structures. I currently serve as a Project Technician at Amazon’s Project Kuiper, supporting the development and validation of satellite systems.  
 
-My broader interests lie at the intersection of computational physics, large-scale data analysis, and high-performance computing, with a focus on leveraging AI-driven approaches to explore complex physical systems. This website serves as a platform to highlight my research, projects, and professional contributions.  
+My broader interests lie at the intersection of physics, artificial intelligence, and high-performance computing, with a focus on solving complex problems in fundamental science and engineering. This website highlights my research, technical projects, and professional experience.  
 
 For inquiries regarding research collaborations or professional opportunities, please feel free to reach out.  
 
